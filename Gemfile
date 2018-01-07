@@ -8,6 +8,9 @@ end
 # Install bootstrap styling
 gem 'bootstrap-sass', '~> 3.3.7'
 
+# Install Font Awesome library for icons
+gem 'font-awesome-sass', '~> 4.7.0'
+
 # Install jquery
 gem 'jquery-rails'
 
