@@ -11,6 +11,9 @@ gem 'bootstrap-sass', '~> 3.3.7'
 # Install Font Awesome library for icons
 gem 'font-awesome-sass', '~> 4.7.0'
 
+# Install Devise gem
+gem 'devise'
+
 # Install jquery
 gem 'jquery-rails'
 
